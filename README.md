@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Training in Cloud Engineering
+
+🔭 I’m currently working on AiCore
+
+📫 How to reach me: www.linkedin.com/in/chamod-kalupahana
+
 <!--
 **ChamodKalupahana/ChamodKalupahana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
