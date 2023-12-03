@@ -9,7 +9,7 @@ Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Training 
 
 # My latest project: Simulating the Universe using Diffusion 🌌
 
-<details>
+<details open>
 <summary> Click to read more </summary>
 
 ### Problem: The Universe is hard to simulate
@@ -49,7 +49,7 @@ Of course this is harder said than done and the model takes around 45 mins just 
 
 The technical details can get very overwhelming so I made sure avoid them here and instead provide a summary here. The full details and report are provided here: [Simulating the Universe Report](Simulating_the_Universe_Report.pdf)
 
-<img src='Figures\Condition Diffusion N-body to Hydro Arch (1).jpg' width=800/>
+<img src='Figures\Condition Diffusion N-body to Hydro Arch (1).jpg' width=400/>
 
 Eariler I simplified the concept of the generating a image of random image. In reality, the truth hydrodynamical map is 'noised' up by the model in the forward process and then model learns to remove the noise that was added.
 
@@ -59,10 +59,10 @@ The diffusion model also uses a U-net which is a image to image neural network b
 
 The hydrodynamical simulations shown above normally requires supercomputers processing over days and weeks to produce but this diffusion model can cut that down to a matter of hours. Analysing the generated results and comparing their physical significance, we can see that the model outputs are similar and physically correct! Perhaps we can improve the generation time but this is a new era of universe simulations.
 
-## Thank you for reading 🙏
 
 </details>
 
+## Thank you for reading 🙏
 
 <!--
 **ChamodKalupahana/ChamodKalupahana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
