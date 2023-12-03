@@ -1,3 +1,4 @@
+
 # Hi there 👋
 
 Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Training in Cloud Engineering
@@ -7,6 +8,9 @@ Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Training 
 📫 How to reach me: www.linkedin.com/in/chamod-kalupahana
 
 # My latest project: Simulating the Universe using Diffusion 🌌
+
+<details>
+<summary> Click to read more </summary>
 
 ### Problem: The Universe is hard to simulate
 
@@ -57,6 +61,7 @@ The hydrodynamical simulations shown above normally requires supercomputers proc
 
 ## Thank you for reading 🙏
 
+</details>
 
 
 <!--
