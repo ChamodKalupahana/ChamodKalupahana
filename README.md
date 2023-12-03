@@ -10,7 +10,7 @@ Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Training 
 # My latest project: Simulating the Universe using Diffusion 🌌
 
 <details open>
-<summary> Click to read more </summary>
+<summary> Click to collapse </summary>
 
 ### Problem: The Universe is hard to simulate
 
