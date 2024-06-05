@@ -1,9 +1,9 @@
 
 # Hi there 👋
 
-Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Training in Cloud Engineering
+Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Trained in Cloud Engineering and currently devloping mental health chatbots.
 
-🔭 I’m currently working on AiCore
+🔭 I’m currently working at GirlsAndBoysInTech
 
 📫 How to reach me: www.linkedin.com/in/chamod-kalupahana
 
