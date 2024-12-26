@@ -1,9 +1,9 @@
 
 # Hi there 👋
 
-Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Trained in Cloud Engineering and currently developing mental health chatbots.
+Physics MSci Graduate Specialized in Machine Learning with TensorFlow. Trained in Cloud Engineering, Database Design and Frontend Good Practices.
 
-🔭 I’m currently working at GirlsAndBoysInTech
+🔭 I’m currently working at International Celebrity Networks (ICN)
 
 📫 How to reach me: www.linkedin.com/in/chamod-kalupahana
 
