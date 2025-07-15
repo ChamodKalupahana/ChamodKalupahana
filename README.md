@@ -26,7 +26,7 @@ Hydrodynamical simulations are more physically realistic than N-body simulations
 
 Perhaps there's a way to convert the simple N-body simulations to realistic Hydrodynamical maps? 🤔 
 
-## Model: Guassian Diffusion
+## Model: Gaussian Diffusion
 
 A Diffusion model starts with an image of random noise and the model learns from the training dataset to slowly remove sections of the noise in the image until a clear denoised image is generated.
 
@@ -36,9 +36,9 @@ The way the diffusion model denoises the image depends on the particular pixel v
 
 This is where the magic happens...
 
-By adding the pixel values of the N-body (training dataset)image to the starting image, and setting the hydrodynamical image as the truth, we can guide the model to 'denoise' the N-body into a hydrodynamical one.
+By adding the pixel values of the N-body (training dataset) image to the starting image, and setting the hydrodynamical image as the truth, we can guide the model to 'denoise' the N-body into a hydrodynamical one.
 
-Of course, this is harder said than done and the model takes around 45 mins just to train on 10% of the training dataset. But the results below are remarkably similar.
+Of course, this is easier said than done and the model takes around 45 mins just to train on 10% of the training dataset. But the results below are remarkably similar.
 
 <img src="Figures\Conditional_Diffusion_6_fields.jpg" width="800"/>
 
