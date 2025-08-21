@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-Physics MSci Graduate Becoming A Full Stack Engineer developing iOS, Android and Web App. Specialised In Image Generation AI.
+Physics MSci Graduate Becoming A Full Stack Engineer developing iOS, Android and Web App. Specialised In Image Generation AI. AI Safety and Alignment Advocate.
 
 🔭 I’m currently working at International Celebrity Networks (ICN)
 
