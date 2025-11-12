@@ -7,7 +7,7 @@ Physics MSci Graduate Becoming A Full Stack Engineer developing iOS, Android and
 
 📫 How to reach me: www.linkedin.com/in/chamod-kalupahana
 
-# My latest project: Simulating the Universe using Diffusion 🌌
+# My university project: Simulating the Universe using Diffusion 🌌
 
 ### Problem: The Universe is hard to simulate
 
