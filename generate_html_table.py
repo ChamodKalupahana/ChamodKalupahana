@@ -20,7 +20,7 @@ projects = [
     },
     {
         "title": "Cham-GPT",
-        "image": "Figures/cham_gpt/feeling_shitty.jpeg",
+        "image": "Figures/class_plan/word.png",
         "description": "LLM Chatbot for talking to a AI version of me",
         "stack": "Phython · TensorFlow · NLP",
         "link": "https://github.com/ChamodKalupahana/Cham-GPT",

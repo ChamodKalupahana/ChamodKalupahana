@@ -5,7 +5,11 @@ Physics MSci Graduate Becoming A Full Stack Engineer developing iOS, Android and
 
 🔭 I’m currently working at International Celebrity Networks (ICN)
 
-📫 How to reach me: www.linkedin.com/in/chamod-kalupahana
+📫 How to reach me:
+- [Linkedin](www.linkedin.com/in/chamod-kalupahana)
+- [Email](mailto:chamodkalupahana@gmail.com)
+
+🎸 Check out what I'm listening to [here](https://open.spotify.com/playlist/1Vpi36cqXPpaG8GCVXIpkU?si=9282169cf71c4175)
 
 # Highlighted Projects ⭐
 
@@ -22,8 +26,8 @@ Physics MSci Graduate Becoming A Full Stack Engineer developing iOS, Android and
       <sub><i>Python · TensorFlow · Generative AI</i></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/yourname/neuronpedia-tools">
-        <img src="Figures/gpt_2_logit_lens/donald_trump.png" width="400" alt=" GPT-2 Logit Lens"/><br/>
+      <a href="https://chamodkalupahana.github.io/GPT-2-Tuned-Logit-Lens/">
+        <img src="Figures/gpt_2_logit_lens/donald_trump.png" width="200" alt=" GPT-2 Logit Lens"/><br/>
         <b> GPT-2 Logit Lens</b>
       </a>
       <br/>
@@ -34,7 +38,7 @@ Physics MSci Graduate Becoming A Full Stack Engineer developing iOS, Android and
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/ChamodKalupahana/Cham-GPT">
-        <img src="Figures/cham_gpt/feeling_shitty.jpeg" width="400" alt="Cham-GPT"/><br/>
+        <img src="Figures/class_plan/word.png" width="400" alt="Cham-GPT"/><br/>
         <b>Cham-GPT</b>
       </a>
       <br/>
@@ -43,7 +47,7 @@ Physics MSci Graduate Becoming A Full Stack Engineer developing iOS, Android and
     </td>
     <td align="center" width="50%">
       <a href="https://compare-astronomical-objects.web.app/">
-        <img src="Figures/compare_astro_objects/betelgeuse.png" width="400" alt="Compare Astronomical Objects"/><br/>
+        <img src="Figures/compare_astro_objects/betelgeuse.png" width="300" alt="Compare Astronomical Objects"/><br/>
         <b>Compare Astronomical Objects</b>
       </a>
       <br/>
@@ -63,7 +67,7 @@ Physics MSci Graduate Becoming A Full Stack Engineer developing iOS, Android and
     </td>
     <td align="center" width="50%">
       <a href="https://www.theclassplan.com/">
-        <img src="Figures/class_plan/phone.png" width="400" alt="The Class Plan"/><br/>
+        <img src="Figures/class_plan/phone.png" width="300" alt="The Class Plan"/><br/>
         <b>The Class Plan</b>
       </a>
       <br/>
